@@ -43,7 +43,9 @@ I enjoy working on **real-world projects**, clean UI systems, and efficient back
 ### 🧩 UI Libraries
 ![UI](https://skillicons.dev/icons?i=tailwind)
 
-**shadcn/ui · Magic UI**
+- 🧱 **shadcn/ui** — Radix-based accessible components  
+- ✨ **Magic UI** — Modern animated UI blocks  
+- 🌌 **Aceternity UI** — Advanced motion & interaction UI
 
 ### 🧰 Tools & Cloud
 ![Tools](https://skillicons.dev/icons?i=git,firebase,vscode,typescript)
