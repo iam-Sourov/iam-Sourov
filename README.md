@@ -48,7 +48,7 @@ Focused on **real-world projects**, clean UI systems, and efficient backend logi
 
 ## 📊 GitHub Activity (Live & Countable)
 
-### 🔥 Contribution Streak (Real-Time)
+### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourov&hide_border=true)
 
 ---
@@ -61,7 +61,7 @@ Focused on **real-world projects**, clean UI systems, and efficient backend logi
 ### 📌 GitHub Stats (Auto-Updated)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-sourov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&hide_border=true&exclude_repo=repo1,repo2)
 
 ---
 
