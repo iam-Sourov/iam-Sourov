@@ -32,15 +32,6 @@ I enjoy working on **real-world projects**, clean UI systems, and efficient back
 
 ---
 
-### 🚦 Traffic Simulation System
-<img src="https://skillicons.dev/icons?i=javascript,html,css" />
-
-🔹 Real-world vehicle movement logic  
-🔹 Collision prevention system  
-🔹 Canvas-based simulation  
-
----
-
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
