@@ -6,27 +6,23 @@
 ---
 
 ## 👨‍💻 About
-MERN Stack Developer focused on **modern frontend**, **efficient backend**, and **clean UI systems**.  
-Actively building real-world projects using **React**, **Node.js**, **Express**, and **MongoDB**.
+MERN Stack Developer passionate about building **modern, scalable, and maintainable** web applications.  
+Focused on **real-world projects**, clean UI systems, and efficient backend logic.
 
 ---
 
 ## 🚀 Featured Projects
-> Real-world projects demonstrating full-stack skills
-
 - **📚 Library Management System**  
-  MERN app with authentication, role-based access & CRUD operations  
+  Authentication, role-based access, CRUD operations  
   **Tech:** React, Express, MongoDB, Firebase
 
 - **🔗 Image Gallery & URL Shortener**  
-  Full-stack app combining media management & short links  
+  Media uploads, short links, dashboard  
   **Tech:** Next.js, MongoDB, shadcn/ui
 
 - **🚦 Traffic Simulation System**  
-  Logic-based vehicle movement & collision prevention  
-  **Tech:** JavaScript, Canvas, Algorithms
-
-👉 *More projects available in repositories*
+  Collision prevention & real-world vehicle logic  
+  **Tech:** JavaScript, Canvas
 
 ---
 
@@ -50,18 +46,23 @@ Actively building real-world projects using **React**, **Node.js**, **Express**,
 
 ---
 
-## 📊 GitHub Activity (Real-Time)
+## 📊 GitHub Activity (Live & Countable)
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourov&theme=default&hide_border=true)
-
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-sourov&theme=github-light)
-
-### 📌 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=iam-sourov&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&hide_border=true)
+### 🔥 Contribution Streak (Real-Time)
+![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourov&hide_border=true)
 
 ---
 
-⭐ *Open to internships, collaborations, and learning opportunities*
+### 📈 Contribution Activity Graph (Live Commits)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-sourov&theme=github-light&hide_border=true)
+
+---
+
+### 📌 GitHub Stats (Auto-Updated)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-sourov&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&hide_border=true)
+
+---
+
+⭐ *Open to internships, learning opportunities, and collaboration*
