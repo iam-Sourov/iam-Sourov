@@ -23,6 +23,44 @@ I am a passionate **MERN Stack Developer** with a sharp eye for building **moder
   <table width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
+        <h3>🛠️ PixelForge</h3>
+        <p>A state-of-the-art client-side image editor leveraging WASM (OpenCV.js, background removal) for portrait enhancement and studio passport sheet compilation with zero API costs.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        </p>
+        <a href="https://github.com/iam-Sourov/PixelForge"><b>View Repository ➜</b></a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>✨ Emojinary</h3>
+        <p>Creative AI-powered story generator that interprets a choice of 4 emojis to compose engaging narrative worlds, powered by Gemini and Supabase.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+          <img src="https://img.shields.io/badge/Framer_Motion-F024B6?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+        </p>
+        <a href="https://github.com/iam-Sourov/emojinary"><b>View Repository ➜</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>💳 FinEase</h3>
+        <p>A premium finance tracking dashboard to log cashflow, monitor categorical budgets, and view dynamic trend analytics.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Recharts-22B573?style=flat-square&logo=charts&logoColor=white" alt="Recharts" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        </p>
+        <a href="https://github.com/iam-Sourov/FinEase"><b>View Repository ➜</b></a>
+      </td>
+      <td width="50%" align="center" valign="top">
         <h3>📚 Library Management System</h3>
         <p>A full-featured system with secure authentication, role-based access control, and complete administrative dashboards.</p>
         <p align="center">
@@ -33,6 +71,8 @@ I am a passionate **MERN Stack Developer** with a sharp eye for building **moder
         </p>
         <a href="https://github.com/iam-sourov"><b>View Repository ➜</b></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" valign="top">
         <h3>🔗 Image Gallery & URL Shortener</h3>
         <p>A modern media gallery and link management app featuring cloud storage uploads, real-time analytics, and clean UI.</p>
@@ -43,6 +83,12 @@ I am a passionate **MERN Stack Developer** with a sharp eye for building **moder
           <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
         </p>
         <a href="https://github.com/iam-sourov"><b>View Repository ➜</b></a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>🚀 Explore More</h3>
+        <p>Explore all my open-source projects, experiments, system designs, and other public repositories on GitHub.</p>
+        <br>
+        <a href="https://github.com/iam-sourov?tab=repositories"><b>View All Repositories ➜</b></a>
       </td>
     </tr>
   </table>
