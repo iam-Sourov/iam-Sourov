@@ -66,8 +66,8 @@ I am a passionate **MERN Stack Developer** with a sharp eye for building **moder
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-sourov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-six.vercel.app/api?username=iam-sourov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=iam-sourov&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=iam-sourov&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   <br><br>
